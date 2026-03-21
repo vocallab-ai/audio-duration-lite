@@ -1,6 +1,6 @@
 {
   "name": "audio-duration-lite",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A tiny Node.js utility for getting audio file duration",
   "type": "module",
   "main": "./dist/index.js",

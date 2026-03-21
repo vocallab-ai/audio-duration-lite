@@ -1,5 +1,11 @@
 # audio-duration-lite — Get Audio Duration in Node.js (MP3, WAV, etc.)
 
+[![npm version](https://img.shields.io/npm/v/audio-duration-lite)](https://www.npmjs.com/package/audio-duration-lite)
+[![types](https://img.shields.io/npm/types/audio-duration-lite)](https://www.npmjs.com/package/audio-duration-lite)
+[![TypeScript](https://img.shields.io/badge/TypeScript-ready-blue)](https://www.typescriptlang.org/)
+[![downloads](https://img.shields.io/npm/dm/audio-duration-lite)](https://www.npmjs.com/package/audio-duration-lite)
+[![GitHub stars](https://img.shields.io/github/stars/vocallab-ai/audio-duration-lite)](https://github.com/vocallab-ai/audio-duration-lite)
+
 Get the duration of audio files in Node.js and JavaScript.
 
 Supports MP3, WAV, and other formats.  
