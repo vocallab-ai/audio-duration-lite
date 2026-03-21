@@ -1,8 +1,11 @@
-# audio-duration-lite
+# audio-duration-lite — Get Audio Duration in Node.js (MP3, WAV, etc.)
 
-A tiny Node.js utility for getting audio file duration.
+Get the duration of audio files in Node.js and JavaScript.
 
-Useful for upload validation, transcription pipelines, and audio preprocessing.
+Supports MP3, WAV, and other formats.  
+Perfect for upload validation, transcription pipelines, and media processing.
+
+If you're looking for a simple way to get audio length in Node.js — this package is for you.
 
 ## Features
 
@@ -42,19 +45,37 @@ if (duration > 30) {
 }
 ```
 
-## Use cases
+## Use Cases
 
-This package is useful for:
+- Validate uploaded audio length (e.g. limit to 30 seconds)
+- Preprocess audio before transcription (OpenAI, Whisper, etc.)
+- Build voice apps and audio tools
+- Analyze media files in Node.js scripts
+- Check duration before uploading to cloud storage
 
-- audio upload checks
-- transcription prep
-- media pipelines
-- voice tools
 
-## Related projects
+## Why audio-duration-lite?
 
-Need a full hosted voice workflow? Check out [vocallab.ai](https://vocallab.ai).
+- No heavy dependencies
+- Faster than full audio processing libraries
+- Minimal and focused API
+- Perfect for simple duration checks
+
+## Related
+
+Looking for a full AI voice pipeline (generation + captions)?
+
+👉 https://www.vocallab.ai
+
 
 ## License
 
 MIT
+
+## Keywords
+
+- get audio duration nodejs
+- get mp3 duration javascript
+- audio length node js
+- get wav duration node
+- audio processing npm
